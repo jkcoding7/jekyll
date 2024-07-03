@@ -4,12 +4,12 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#Creating">Creating</a>
-  <a href="#Modifying">Modifying</a>
-  <a href="#Selecting">Selecting</a>
-  <a href="#Copying">Copying</a>
-  <a href="#Semantic-Checking">Semantic-Checking</a>
-  <a href="#Settings">Settings</a>
+  <a href="#creating">Creating</a>
+  <a href="#modifying">Modifying</a>
+  <a href="#selecting">Selecting</a>
+  <a href="#copying">Copying</a>
+  <a href="#semantic-checking">Semantic-Checking</a>
+  <a href="#settings">Settings</a>
 </div>
 
 ### Creating
