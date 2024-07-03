@@ -4,7 +4,6 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 
 <nav class="topics">
   <ol>
-    <li>Topics: </li>
     <li class="topic"><a href="#creating">Creating</a></li>
     <li class="topic"><a href="#modifying">Modifying</a></li>
     <li class="topic"><a href="#selecting">Selecting</a></li>
