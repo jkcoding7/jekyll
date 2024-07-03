@@ -1,6 +1,12 @@
 # User Guide
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
+
+<aside id="sidebar">
+    <section id="widget_1"></section>
+    <section id="widget_2"></section>
+    <section id="widget_3"></section>
+</aside>
   
 ### Creating
 <div id="body">
