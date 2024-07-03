@@ -3,6 +3,7 @@
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
   
 ## Creating
+<div id="body">
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
 <p>You can create a new diagram at any point using the menu command File | New. The diagram will open in a new tab.</p>
@@ -201,6 +202,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <div class="content">
 <p>Errors and confirmations get reported as temporary notifications in the bottom left of the application window. It is possible to adjust the duration of the notifications. A duration of zero disables all notifications.</p>
 <img src="../tipdata/tip_images/tip37.png">
+</div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
