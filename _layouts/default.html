@@ -11,24 +11,16 @@
     {% include head-custom.html %}
   </head>
   
-  <body>
-    <div class="container">
-      <aside class="sidebar">
-        <!-- Sidebar content -->
-        <nav>
-          <ul>
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-            <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-            <!-- Add more links as needed -->
-          </ul>
-        </nav>
-      </aside>
-      <main class="content">
-        {{ content }}
-      </main>
-    </div>
-  </body>
+  <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<!-- Use any element to open the sidenav -->
+<span onclick="openNav()">open</span>
   
   <body>
 
