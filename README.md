@@ -2,14 +2,15 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
-<aside id="sidebar">
-    <section id="widget_1">aaa</section>
-    <section id="widget_2">aaa</section>
-    <section id="widget_3">aaa</section>
-</aside>
-  
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
 ### Creating
-<hr>
 <div id="body">
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
