@@ -63,8 +63,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>This will create the activation box for both the caller and the callee. To create additional call edges, drag from an activation box to a life-line.</p>
 <img src="../tipdata/tip_images/tip23b.png">
 </div>
+</div>
 
 ## Modifying
+<div id="body">
 <button class="collapsible">Editing Element Properties</button>
 <div class="content">
 <p>You can edit an element's properties by double-clicking it or by using the shortcut Ctrl-Enter on a selected element.</p>
@@ -100,8 +102,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>Use the Open Bottom property of the activation box in a sequence diagram to represent an incomplete sequence of calls.</p>
 <img src="../tipdata/tip_images/tip32.png">
 </div>
+</div>
 
 ## Selecting
+<div id="body">
 <button class="collapsible">Selecting Diagram Elements</button>
 <div class="content">
 <p>To select diagram elements individually, enable the Selection tool and click on the element to select or deselect. To add or remove individual elements to/from the selection, hold down the Ctrl key while clicking on the element.</p>
@@ -117,8 +121,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>Use the menu command Edit | Select All (Ctrl-A) to select all elements in a diagram, for example to move the entire diagram as one.</p>
 <img src="../tipdata/tip_images/tip12.png">
 </div>
+</div>
 
 ## Copying
+<div id="body">
 <button class="collapsible">Copying the Diagram to the Clipboard</button>
 <div class="content">
 <p>Use the Copy to Clipboard feature to copy a snapshot of the entire diagram to the system clipboard. The diagram can then be pasted easily into other applications. The feature is accessed using the File menu, the toolbar, or using the shortcut Ctrl-B.</p>
@@ -129,8 +135,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>Use the menu command File | Duplicate (Ctrl-D) to quickly make a duplicate of the current diagram. The duplicate diagram will be open in a new tab. This feature is especially useful when exploring different variants of a design.</p>
 <img src="../tipdata/tip_images/tip25.png">
 </div>
+</div>
 
 ## Semantic Checking
+<div id="body">
 <button class="collapsible">Edge Validation</button>
 <div class="content">
 <p>When attempting to create a new edge, the operation will only succeed if the edge is a valid connection between two elements according to the syntax of the diagram. Invalid attempts to create edges get reported as notifications.</p>
@@ -146,8 +154,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>State diagrams support up to two transitions between nodes in either direction, as well as two self-transitions.</p>
 <img src="../tipdata/tip_images/tip21.png">
 </div>
+</div>
 
 ## Settings
+<div id="body">
 <button class="collapsible">Tool Hints</button>
 <div class="content">
 <p>It is possible to view the name of each tool in the toolbar in full next to its icon. To toggle this feature, use the menu command View | Show Tool Hint.</p>
