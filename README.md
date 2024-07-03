@@ -2,15 +2,14 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+<nav>
   <a href="#creating">Creating</a>
   <a href="#modifying">Modifying</a>
   <a href="#selecting">Selecting</a>
   <a href="#copying">Copying</a>
   <a href="#semantic-checking">Semantic-Checking</a>
   <a href="#settings">Settings</a>
-</div>
+</nav>
 
 ### Creating
 <div id="body">
