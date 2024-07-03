@@ -9,6 +9,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </aside>
   
 ### Creating
+<hr>
 <div id="body">
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
