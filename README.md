@@ -2,13 +2,15 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
-<nav>
-  <a href="#creating">Creating</a>
-  <a href="#modifying">Modifying</a>
-  <a href="#selecting">Selecting</a>
-  <a href="#copying">Copying</a>
-  <a href="#semantic-checking">Semantic-Checking</a>
-  <a href="#settings">Settings</a>
+<nav class="topics">
+  <ol>
+    <li class="topic"><a href="#creating">Creating</a>
+    <li class="topic"><a href="#modifying">Modifying</a>
+    <li class="topic"><a href="#selecting">Selecting</a>
+    <li class="topic"><a href="#copying">Copying</a>
+    <li class="topic"><a href="#semantic-checking">Semantic-Checking</a>
+    <li class="topic"><a href="#settings">Settings</a>
+  </ol>
 </nav>
 
 ### Creating
@@ -226,15 +228,29 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-<style>
-  nav
-  {    
-    width: 150px;
-    float: left;
-    display: inline;
-    margin: 0;
-    padding: 0;
-    margin-right: 10px;
+<style>  
+  nav 
+  {
+    border-bottom: 1px solid black;
+  }
+  
+  .topics ol 
+  {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .topic {
+    display: inline-block;
+  }
+  
+  .topic a::after {
+    display: inline-block;
+    color: #000;
+    content: '|';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
   }
   
   .collapsible 
