@@ -3,14 +3,14 @@
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
 <nav class="topics">
-  <ol>
+  <ul>
     <li class="topic"><a href="#creating">Creating</a></li>
     <li class="topic"><a href="#modifying">Modifying</a></li>
     <li class="topic"><a href="#selecting">Selecting</a></li>
     <li class="topic"><a href="#copying">Copying</a></li>
     <li class="topic"><a href="#semantic-checking">Semantic Checking</a></li>
     <li class="topic"><a href="#settings">Settings</a></li>
-  </ol>
+  </ul>
 </nav>
 
 ### Creating
