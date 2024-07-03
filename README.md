@@ -8,8 +8,8 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   <a href="#Modifying">Modifying</a>
   <a href="#Selecting">Selecting</a>
   <a href="#Copying">Copying</a>
-  <a href="#Semantic-Checking">Copying</a>
-  <a href="#Copying">Setting</a>
+  <a href="#Semantic-Checking">Semantic-Checking</a>
+  <a href="#Settings">Settings</a>
 </div>
 
 ### Creating
