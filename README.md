@@ -2,7 +2,7 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
   
-## Creating
+### Creating
 <div id="body">
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
@@ -65,7 +65,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
-## Modifying
+### Modifying
 <div id="body">
 <button class="collapsible">Editing Element Properties</button>
 <div class="content">
@@ -104,7 +104,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
-## Selecting
+### Selecting
 <div id="body">
 <button class="collapsible">Selecting Diagram Elements</button>
 <div class="content">
@@ -123,7 +123,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
-## Copying
+### Copying
 <div id="body">
 <button class="collapsible">Copying the Diagram to the Clipboard</button>
 <div class="content">
@@ -137,7 +137,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
-## Semantic Checking
+### Semantic Checking
 <div id="body">
 <button class="collapsible">Edge Validation</button>
 <div class="content">
@@ -156,7 +156,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
-## Settings
+### Settings
 <div id="body">
 <button class="collapsible">Tool Hints</button>
 <div class="content">
