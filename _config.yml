@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: jason k
 description: Bookmark this to keep an eye on my project updates!
+sidebar:
+  - label: Section One
+    children:
+      - document-one
+      - document-two
+      - document-three
