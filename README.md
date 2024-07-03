@@ -1,9 +1,9 @@
 # User Guide
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
-
-## Creating
 <div id="body">
+  
+## Creating
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
 <p>You can create a new diagram at any point using the menu command File | New. The diagram will open in a new tab.</p>
