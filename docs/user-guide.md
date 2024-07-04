@@ -230,7 +230,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   nav 
   {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
   
   .topics ol 
