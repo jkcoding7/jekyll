@@ -229,8 +229,8 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <style>  
   .nav-title 
   {
-    margin-bottom: 20px; /* Space between title and nav */
-    font-size: 20px; /* Adjust as needed */
+    margin-bottom: 5px; /* Space between title and nav */
+    font-size: 30px; /* Adjust as needed */
     font-weight: bold; /* For emphasis */
     text-align: center; /* Center the title text */
   }
