@@ -5,17 +5,7 @@ layout: user-guide
 # User Guide
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
-
-<nav class="topics">
-  <ol>
-    <li class="topic"><a href="#creating">Creating</a></li>
-    <li class="topic"><a href="#modifying">Modifying</a></li>
-    <li class="topic"><a href="#selecting">Selecting</a></li>
-    <li class="topic"><a href="#copying">Copying</a></li>
-    <li class="topic"><a href="#semantic-checking">Semantic Checking</a></li>
-    <li class="topic"><a href="#settings">Settings</a></li>
-  </ol>
-</nav>
+<hr>
 
 ### Creating
 <div id="body">
@@ -80,6 +70,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
+
 ### Modifying
 <div id="body">
 <button class="collapsible">Editing Element Properties</button>
@@ -119,6 +110,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 </div>
 </div>
 
+
 ### Selecting
 <div id="body">
 <button class="collapsible">Selecting Diagram Elements</button>
@@ -137,6 +129,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip12.png">
 </div>
 </div>
+
 
 ### Copying
 <div id="body">
@@ -170,6 +163,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip21.png">
 </div>
 </div>
+
 
 ### Settings
 <div id="body">
@@ -235,7 +229,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <style>  
   nav 
   {
-    border-bottom: 1px solid black;
+    /*border-bottom: 1px solid black;*/
   }
   
   .topics ol 
@@ -249,12 +243,12 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   }
   
   .topic a::after {
-    display: inline-block;
+/*     display: inline-block;
     color: #000;
     content: '|';
     font-size: 80%;
     font-weight: bold;
-    padding: 0 3px;
+    padding: 0 3px; */
   }
   
   .collapsible 
