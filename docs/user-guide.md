@@ -227,6 +227,11 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <style>  
+  nav
+  {
+    padding-left: 300;
+  }
+  
   ul
   {
     list-style-type: none;
