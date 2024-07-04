@@ -2,11 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.outer {
-    position: relative;
-    width: 100%;
-}
-
 .left-space {
     position: absolute;
     left: 0;
@@ -15,6 +10,5 @@
     width: 100px; 
     height: 100px; 
     background-color: lightblue;
-    z-index: 10; 
 }
 
