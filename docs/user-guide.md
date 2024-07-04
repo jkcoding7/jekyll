@@ -227,20 +227,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <style>  
-  .nav 
+  nav 
   {
     display: flex;
-    flex-direction: column;
-  }
-  
-  .topics ol 
-  {
-    list-style-type: none;
-    padding-left: 0;
-  }
-  
-  .topic {
-    display: inline-block;
   }
   
   .collapsible 
