@@ -229,7 +229,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <style>  
   nav
   {
-    padding-left: 300;
+    margin: 300;
   }
   
   ul
