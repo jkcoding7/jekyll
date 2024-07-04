@@ -227,10 +227,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <style>  
-/*   nav 
+  ul
   {
-    display: flex;
-  } */
+    list-style-type: none;
+  }
   
   .collapsible 
   {
@@ -244,6 +244,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     outline: none;
     font-size: 15px;
   }
+  
 .collapsible:hover 
   {
     background-color: #8e8e8e;
