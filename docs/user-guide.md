@@ -1,3 +1,7 @@
+---
+layout: user-guide
+---
+
 # User Guide
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
