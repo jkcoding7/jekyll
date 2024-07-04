@@ -227,9 +227,12 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <style>  
-  nav
+  .nav-title 
   {
-    margin: 300;
+    margin-bottom: 20px; /* Space between title and nav */
+    font-size: 20px; /* Adjust as needed */
+    font-weight: bold; /* For emphasis */
+    text-align: center; /* Center the title text */
   }
   
   ul
