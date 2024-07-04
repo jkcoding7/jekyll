@@ -4,10 +4,12 @@
 @import "{{ site.theme }}";
 .left-space {
     position: absolute;
-    left: 0; /* Aligns to the left edge of the `.outer` container */
-    top: 50%; /* Vertically centers the element */
-    transform: translateY(-50%);
-    width: 100px; /* Set width as needed */
-    height: 100px; /* Set height as needed */
-    background-color: lightblue; /* For visibility */
+    left: 0;
+    top: 50%; 
+    transform: translateY(-50%); 
+    width: 100px; 
+    height: 100px; 
+    background-color: lightblue;
+    z-index: 10; 
 }
+
