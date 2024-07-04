@@ -229,7 +229,8 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <style>  
   nav 
   {
-    /*border-bottom: 1px solid black;*/
+    display: flex;
+    flex-direction: row;
   }
   
   .topics ol 
@@ -240,15 +241,6 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   
   .topic {
     display: inline-block;
-  }
-  
-  .topic a::after {
-/*     display: inline-block;
-    color: #000;
-    content: '|';
-    font-size: 80%;
-    font-weight: bold;
-    padding: 0 3px; */
   }
   
   .collapsible 
