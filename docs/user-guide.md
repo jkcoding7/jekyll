@@ -14,10 +14,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>You can create a new diagram at any point using the menu command File | New. The diagram will open in a new tab.</p>
 <img src="../tipdata/tip_images/tip1.png">
   <button class="collapsible">Im a nested collapsible</button>
-    <div>
-        <h1>Click me - I'm a nested collapsible block!</h1>
+    <div class="content">
         <p>I'm the expanded content in the nested collapsible block.</p>
-      </div>
+    </div>
 </div>
 <button class="collapsible">Creating Nodes</button>
 <div class="content">
