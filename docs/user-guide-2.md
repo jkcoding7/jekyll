@@ -5,6 +5,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <div id="body">
 
 <button class="collapsible">Creating</button>
+<div class="content">
 <button class="collapsible">Creating Nodes</button>
 <div class="content">
 <p>Selecting a node type in the toolbar enables the corresponding Node Creation tool. With a Node Creation tool enabled, click on an empty space in the diagram to create a new node of that type. Rolling over the tool in the toolbar shows a tooltip with the name of the node type.</p>
@@ -59,7 +60,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>In the Properties editor for any diagram element, use the shortcut key combination Ctrl-Q to insert the characters « », which are the delimiters for UML stereotypes. The cursor will be positioned between the delimiters, so you can just continue typing the name of your stereotype.</p>
 <img src="../tipdata/tip_images/tip36.png">
 </div>
+</div>
 <button class="collapsible">Modifying</button>
+<div class="content">
 <button class="collapsible">Editing Element Properties</button>
 <div class="content">
 <p>You can edit an element's properties by double-clicking it or by using the shortcut Ctrl-Enter on a selected element.</p>
@@ -90,7 +93,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>Use the Open Bottom property of the activation box in a sequence diagram to represent an incomplete sequence of calls.</p>
 <img src="../tipdata/tip_images/tip32.png">
 </div>
+</div>
 <button class="collapsible">Selecting</button>
+<div class="content">
 <button class="collapsible">Selecting Diagram Elements</button>
 <div class="content">
 <p>To select diagram elements individually, enable the Selection tool and click on the element to select or deselect. To add or remove individual elements to/from the selection, hold down the Ctrl key while clicking on the element.</p>
@@ -106,7 +111,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>Use the menu command Edit | Select All (Ctrl-A) to select all elements in a diagram, for example to move the entire diagram as one.</p>
 <img src="../tipdata/tip_images/tip12.png">
 </div>
+</div>
 <button class="collapsible">Copying</button>
+<div class="content">
 <button class="collapsible">Cutting, Copying, and Pasting</button>
 <div class="content">
 <p>You can cut or copy one or more diagram elements and paste them either within the same diagram or into a different diagram. It is only possible to paste a selection to another diagram if all the elements in the selection are compatible with the destination diagram type. It is also not possible to paste elements into a sequence diagram as this would result in an invalid control-flow sequence.</p>
@@ -127,7 +134,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>Use the menu command File | Export Image to save the current diagram as an image file. The image type is determined by the file extension selected from the Save as Type field.</p>
 <img src="../tipdata/tip_images/tip34.png">
 </div>
+</div>
 <button class="collapsible">Semantics</button>
+<div class="content">
 <button class="collapsible">Edge Validation</button>
 <div class="content">
 <p>When attempting to create a new edge, the operation will only succeed if the edge is a valid connection between two elements according to the syntax of the diagram. Invalid attempts to create edges get reported as notifications.</p>
@@ -143,7 +152,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <p>JetUML verifies that call and return edges added to a sequence diagram result in a valid control sequence. Trying to add edges at arbitrary points that would result in a jump in the control flow will fail silently.</p>
 <img src="../tipdata/tip_images/tip26.png">
 </div>
+</div>
 <button class="collapsible">Settings</button>
+<div class="content">
 <button class="collapsible">Tool Hints</button>
 <div class="content">
 <p>It is possible to view the name of each tool in the toolbar in full next to its icon. To toggle this feature, use the menu command View | Show Tool Hint.</p>
@@ -198,6 +209,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <div class="content">
 <p>You can turn dark mode on or off by navigating to the menu command View | Dark Mode.</p>
 <img src="../tipdata/tip_images/tip38.png">
+</div>
 </div>
 
 </div>
