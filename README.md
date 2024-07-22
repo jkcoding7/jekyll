@@ -30,6 +30,7 @@ JetUML does not collect any information, personal or otherwise. The application 
 
 * [Installation Guide](docs/install.md)
 * [User Guide](docs/user-guide.html)
+* [User Guide 2](docs/user-guide-2.html)
 * [JetUML File Format](docs/schemas.md)
 * [Contributing Guidelines](docs/CONTRIBUTING.md)
 * [Guide for JetUML Developers](docs/developers.md)
