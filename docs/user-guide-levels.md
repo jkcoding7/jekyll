@@ -250,9 +250,9 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 4px 4px;
+  padding: 7px 7px;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 /* Change the color of links on hover */
@@ -261,20 +261,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   color: black;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
-}
   .topnav ul li 
   {
     float: left;
     list-style-type: none;
-  }
-  .topnav li + li:before
-  {
-    content: " | ";
-    padding: 0 10px;
   }
 </style>
 
