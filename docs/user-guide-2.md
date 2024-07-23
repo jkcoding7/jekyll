@@ -251,6 +251,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     max-height: 0;
     transition: max-height 0.2s ease-out;
   }
+  .topnav ul li 
+  {
+    float: left;
+  }
   .topnav li + li:before
   {
     content: " | ";
