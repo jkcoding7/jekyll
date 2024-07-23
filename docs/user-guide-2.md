@@ -254,6 +254,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   .topnav ul li 
   {
     float: left;
+    list-style-type: none;
   }
   .topnav li + li:before
   {
