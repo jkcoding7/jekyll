@@ -2,6 +2,12 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
+<div class="topnav">
+  <a href="user-guide-2.md">Topic View</a>
+  <a href="user-guide-levels.md">Level View</a>
+  <a href="user-guide-diagrams.md">Diagram View</a>
+</div> 
+
 <div id="body">
 
 <button class="collapsible">Creating</button>
