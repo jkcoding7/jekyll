@@ -9,7 +9,7 @@
 
 A lightweight desktop application for interactively creating and editing diagrams in the Unified Modeling Language. JetUML supports the sketching of software design ideas with a minimum of fuss. Diagrams can be saved in JSON, exported to popular image formats, and copied to the system clipboard for integration with other tools. Supports class diagrams, sequence diagrams, state diagrams, object diagrams, and use case diagrams. 
 
-![JetUML Class Diagram](docs/banner.png)
+![JetUML Class Diagram](https://github.com/prmr/JetUML/blob/master/docs/banner.png)
 
 ## Endorsements
 
