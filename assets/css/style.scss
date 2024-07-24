@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 /* Add a black background color to the top navigation */
 .topnavmain {
+  position: relative
   background-color: #1e1e1e;
   overflow: hidden;
 }
