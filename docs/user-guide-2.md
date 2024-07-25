@@ -241,6 +241,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
     background-color: #8e8e8e;
   }
+.collapsible:before
+  {
+    content: ">"
+  }
 .content 
   {
     padding: 0px 10px;
