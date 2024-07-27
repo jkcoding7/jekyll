@@ -226,7 +226,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <style>
-  .accordion 
+  button.accordion 
   {
     background-color: #DCDCDC;
     color: black;
@@ -238,16 +238,16 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     outline: none;
     font-size: 15px;
   }
-.accordion:hover 
+button.accordion:hover 
   {
     background-color: #8e8e8e;
   }
-.accordion:before
+button.accordion:before
   {
-    content: ">"
+    content: ">";
   }
-.accordion:before :active {
-    content: "x" !important;
+button.accordion.active:before {
+    content: "x";
 }
 .content 
   {
