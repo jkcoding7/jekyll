@@ -242,11 +242,11 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
     background-color: #8e8e8e;
   }
-.accordion::before
+button.accordion:before
   {
     content: ">"
   }
-  .accordion:active::before {
+  button.accordion:active:before {
     content: "\2212";
 }
 .content 
