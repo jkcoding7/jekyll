@@ -242,9 +242,13 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
     background-color: #8e8e8e;
   }
-.collapsible:before
+.collapsible::before
   {
     content: ">"
+  }
+  .collapsible.active::before
+  {
+    content: "↓"
   }
 .content 
   {
