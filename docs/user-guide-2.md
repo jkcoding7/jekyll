@@ -266,6 +266,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   }
   .topnav 
   {
+    display: flex;
   background-color: #333;
   overflow: hidden;
   }
