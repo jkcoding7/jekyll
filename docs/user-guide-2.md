@@ -244,10 +244,10 @@ button.accordion:hover
   }
 button.accordion:before
   {
-    content: ">";
+    content: "▸ ";
   }
 button.accordion.active:before {
-    content: "x";
+    content: "▾ ";
 }
 .content 
   {
