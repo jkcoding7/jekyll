@@ -3,7 +3,7 @@
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
 <div class="topnav">
-  <h2 class="nav-title">View: </h2>
+  <li class="nav-title">View: </li>
   <ul>
   <li><a href="user-guide-2">By Topic</a></li>
   <li><a href="user-guide-levels">By Level</a></li>
@@ -266,8 +266,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   }
   .topnav 
   {
-    display: flex;
-  background-color: #333;
+      display: flex;
   overflow: hidden;
   }
 </style>
