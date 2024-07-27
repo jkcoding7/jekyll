@@ -247,7 +247,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     content: ">"
   }
 .accordion:before :active {
-    content: "x";
+    content: "x" !important;
 }
 .content 
   {
