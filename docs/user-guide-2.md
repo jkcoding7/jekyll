@@ -246,7 +246,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
     content: ">"
   }
-  .collapsible.active:after {
+  .collapsible:active::before {
     content: "\2212";
 }
 .content 
