@@ -246,7 +246,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
     content: ">"
   }
-  button.accordion.active:after {
+  .collapsible.active:after {
     content: "\2212";
 }
 .content 
