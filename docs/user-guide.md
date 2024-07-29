@@ -70,7 +70,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip36.png">
 </div>
 </div>
-<button class="accordion">Modifying</button>
+<button class="accordion category">Modifying</button>
 <div class="content">
 <button class="accordion">Editing Element Properties</button>
 <div class="content">
@@ -103,7 +103,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip32.png">
 </div>
 </div>
-<button class="accordion">Selecting</button>
+<button class="accordion category">Selecting</button>
 <div class="content">
 <button class="accordion">Selecting Diagram Elements</button>
 <div class="content">
@@ -121,7 +121,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip12.png">
 </div>
 </div>
-<button class="accordion">Copying</button>
+<button class="accordion category">Copying</button>
 <div class="content">
 <button class="accordion">Cutting, Copying, and Pasting</button>
 <div class="content">
@@ -144,7 +144,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip34.png">
 </div>
 </div>
-<button class="accordion">Semantics</button>
+<button class="accordion category">Semantics</button>
 <div class="content">
 <button class="accordion">Edge Validation</button>
 <div class="content">
@@ -162,7 +162,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip26.png">
 </div>
 </div>
-<button class="accordion">Settings</button>
+<button class="accordion category">Settings</button>
 <div class="content">
 <button class="accordion">Tool Hints</button>
 <div class="content">
@@ -255,11 +255,11 @@ button.accordion.active:before {
   }
 .category:before
   {
-    content: "▶ " !important;
+    content: "⮞ " !important;
   }
   button.category.active:before
   {
-    content: "▼ " !important;
+    content: "⮟ " !important;
   }
 .content 
   {
