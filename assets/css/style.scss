@@ -22,3 +22,39 @@
 .topnavmain a:hover {
   color: #7fc7ff;
 }
+
+button.accordion 
+  {
+    background-color: #DCDCDC;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 16px;
+  }
+button.accordion:hover 
+  {
+    background-color: #8e8e8e;
+  }
+button.accordion:before
+  {
+    content: "▸ ";
+  }
+button.accordion.active:before {
+    content: "▾ ";
+}
+  button.category
+  {
+    font-size: 18px;
+  }
+.category:before
+  {
+    content: "⮞ " !important;
+  }
+  button.category.active:before
+  {
+    content: "⮟ " !important;
+  }
