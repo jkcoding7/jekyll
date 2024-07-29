@@ -2,12 +2,12 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
-
 <div class="topnav">
+  <li class="nav-title">View: </li>
   <ul>
-  <li><a href="user-guide-2">Topic View</a></li>
-  <li><a href="user-guide-levels">Level View</a></li>
-  <li><a href="user-guide-diagrams">Diagram View</a></li>
+  <li><a href="user-guide">By Topic</a></li>
+  <li><a href="user-guide-levels">By Level</a></li>
+  <li><a href="user-guide-diagrams">By Diagram</a></li>
   </ul>
 </div> 
 
@@ -256,6 +256,11 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
     content: " | ";
     padding: 0 10px;
+  }
+  .topnav 
+  {
+      display: flex;
+  overflow: hidden;
   }
 </style>
 
