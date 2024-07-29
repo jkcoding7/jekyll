@@ -249,9 +249,17 @@ button.accordion:before
 button.accordion.active:before {
     content: "▾ ";
 }
+  button.category
+  {
+    font-weight: bold;
+  }
 .category:before
   {
     content: "▶ " !important;
+  }
+  button.category.active:before
+  {
+    content: "▼ " !important;
   }
 .content 
   {
