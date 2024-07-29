@@ -13,7 +13,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 
 <div id="body">
 
-<button class="accordion">Creating</button>
+<button class="accordion category">Creating</button>
 <div class="content">
 <button class="accordion">Creating Nodes</button>
 <div class="content">
@@ -249,6 +249,10 @@ button.accordion:before
 button.accordion.active:before {
     content: "▾ ";
 }
+.category:before
+  {
+    content: "▶ " !important;
+  }
 .content 
   {
     padding: 0px 10px;
