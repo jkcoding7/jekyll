@@ -5,7 +5,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <div class="topnav">
   <li class="nav-title">View: </li>
   <ul>
-  <li><a href="user-guide-2">By Topic</a></li>
+  <li><a href="user-guide">By Topic</a></li>
   <li><a href="user-guide-levels">By Level</a></li>
   <li><a href="user-guide-diagrams">By Diagram</a></li>
   </ul>
