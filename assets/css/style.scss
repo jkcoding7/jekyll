@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 /* Add a black background color to the top navigation */
 .topnavmain {
-  overflow: auto;
+  overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
@@ -27,6 +27,7 @@
 .dropdown {
   float: left;
   overflow: hidden;
+  position: absolute;
 }
 
 /* Dropdown button */
