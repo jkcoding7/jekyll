@@ -13,7 +13,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 
 <div id="body">
 
-<button class="accordion">Beginner</button>
+<button class="accordion category">Beginner</button>
 <div class="content">
 <button class="accordion">Creating Nodes</button>
 <div class="content">
@@ -128,7 +128,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip38.png">
 </div>
 </div>
-<button class="accordion">Intermediate</button>
+<button class="accordion category">Intermediate</button>
 <div class="content">
 <button class="accordion">Edge Validation</button>
 <div class="content">
@@ -186,7 +186,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <img src="../tipdata/tip_images/tip36.png">
 </div>
 </div>
-<button class="accordion">Advanced</button>
+<button class="accordion category">Advanced</button>
 <div class="content">
 <button class="accordion">Transitions in State Diagrams</button>
 <div class="content">
