@@ -2,13 +2,14 @@
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
 
-<nav class="topnav">
+<div class="topnav">
+  <li class="nav-title">View: </li>
   <ul>
-  <li><a href="user-guide-2">Topic View</a></li>
-  <li><a href="user-guide-levels">Level View</a></li>
-  <li><a href="user-guide-diagrams">Diagram View</a></li>
+  <li><a href="user-guide">By Topic</a></li>
+  <li><a href="user-guide-levels">By Level</a></li>
+  <li><a href="user-guide-diagrams">By Diagram</a></li>
   </ul>
-</nav> 
+</div> 
 
 <div id="body">
 
@@ -240,31 +241,20 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     max-height: 0;
     transition: max-height 0.2s ease-out;
   }
-  .topnav {
-  background-color: #333;
-  overflow: hidden;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 7px 7px;
-  text-decoration: none;
-  font-size: 15px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
   .topnav ul li 
   {
     float: left;
     list-style-type: none;
+  }
+  .topnav li + li:before
+  {
+    content: " | ";
+    padding: 0 10px;
+  }
+  .topnav 
+  {
+      display: flex;
+  overflow: hidden;
   }
 </style>
 
