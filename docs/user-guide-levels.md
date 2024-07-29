@@ -217,29 +217,6 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <style>
-  button.accordion 
-  {
-    background-color: #DCDCDC;
-    color: black;
-    cursor: pointer;
-    padding: 10px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-  }
-button.accordion:hover 
-  {
-    background-color: #8e8e8e;
-  }
-button.accordion:before
-  {
-    content: "▸ ";
-  }
-button.accordion.active:before {
-    content: "▾ ";
-}
 .content 
   {
     padding: 0px 10px;
