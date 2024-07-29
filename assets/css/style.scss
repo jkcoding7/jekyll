@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 /* Add a black background color to the top navigation */
 .topnavmain {
-  /* padding: 0 !important; */
+  padding: 0 !important; 
   overflow: hidden;
 }
 
@@ -13,13 +13,12 @@
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 0px 16px;
+  padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
 
 /* Change the color of links on hover */
 .topnavmain a:hover {
-  background-color: white; /*#373737;*/
-  color: white;
+  color: #0F79D0;
 }
