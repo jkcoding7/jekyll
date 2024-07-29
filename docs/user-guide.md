@@ -251,7 +251,7 @@ button.accordion.active:before {
 }
   button.category
   {
-    font-weight: bold;
+    font-size: 20px;
   }
 .category:before
   {
