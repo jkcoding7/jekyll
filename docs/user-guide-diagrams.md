@@ -1,6 +1,6 @@
 # User Guide
 
-This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
+This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. The tips can be organized into different views by clicking on a specific view. Click on an entry to expand with details.
 
 <div class="topnav">
   <li class="nav-title">View: </li>
