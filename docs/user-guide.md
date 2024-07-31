@@ -225,32 +225,6 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-<style>
-.content 
-  {
-    padding: 0px 10px;
-    overflow: hidden;
-    background-color: #f1f1f1;
-    max-height: 0;
-    transition: max-height 0.2s ease-out;
-  }
-  .topnav ul li 
-  {
-    float: left;
-    list-style-type: none;
-  }
-  .topnav li + li:before
-  {
-    content: " | ";
-    padding: 0 10px;
-  }
-  .topnav 
-  {
-      display: flex;
-  overflow: hidden;
-  }
-</style>
-
 <!-- Source: https://www.w3schools.com/ -->
 <script>
 var coll = document.getElementsByClassName("accordion");
