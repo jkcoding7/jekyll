@@ -25,7 +25,6 @@
 
 button.accordion 
   {
-    background-color: #fafbfc;
     color: black;
     cursor: pointer;
     padding: 10px;
@@ -52,7 +51,7 @@ button.accordion.active:before {
   }
 .category:before
   {
-    content: " ▶ " !important;
+    content: "▶ " !important;
   }
   button.category.active:before
   {
