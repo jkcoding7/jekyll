@@ -1,20 +1,6 @@
 ---
-title: My First Page
 layout: user-guide
 ---
-
-# User Guide
-
-This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. The tips can be organized into different views by clicking on a specific view. Click on an entry to expand with details.
-
-<div class="topnav">
-  <li class="nav-title">View: </li>
-  <ul>
-  <li><a href="user-guide">By Topic</a></li>
-  <li><a href="user-guide-levels">By Level</a></li>
-  <li><a href="user-guide-diagrams">By Diagram</a></li>
-  </ul>
-</div> 
 
 <div id="body">
 
