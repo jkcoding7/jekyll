@@ -23,6 +23,32 @@
   color: #7fc7ff;
 }
 
+  .topnav ul li 
+  {
+    float: left;
+    list-style-type: none;
+  }
+  .topnav li + li:before
+  {
+    content: " | ";
+    padding: 0 10px;
+  }
+  .topnav 
+  {
+    display: flex;
+    overflow: hidden;
+  }
+
+.content 
+  {
+    padding: 0px 10px;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    max-height: 0;
+    transition: max-height 0.2s ease-out;
+  }
+
+
 button.accordion 
   {
     background-color: #f2f2f2;
