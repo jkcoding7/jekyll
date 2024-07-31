@@ -52,9 +52,9 @@ button.accordion.active:before {
   }
 .category:before
   {
-    content: "⮞ " !important;
+    content: "▶ " !important;
   }
   button.category.active:before
   {
-    content: "⮟ " !important;
+    content: "▼ " !important;
   }
