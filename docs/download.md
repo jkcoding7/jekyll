@@ -1,5 +1,3 @@
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
 <div>
   <h2>Simple Collapsible</h2>
   <p>Click on the button to toggle between showing and hiding content.</p>
