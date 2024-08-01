@@ -1,14 +1,3 @@
-<div>
-  <h2>Simple Collapsible</h2>
-  <p>Click on the button to toggle between showing and hiding content.</p>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </div>
-</div>
-
 # Download
 
 JetUML is available both as a self-contained application and as a Java archive file under the terms of the [GNU General Public License v3](https://www.gnu.org/licenses/gpl.html). Download the application from the [latest release](https://github.com/prmr/JetUML/releases){:target="_blank"} page and if necessary see the [installation guide](#installation-instructions). Please consider supporting the project by starring this repo and by [writing an endorsement](mailto:jetuml@cs.mcgill.ca).
