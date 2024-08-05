@@ -6,4 +6,4 @@ Welcome to the comprehensive documentation for JetUML. This section serves as yo
 * [JetUML File Format](https://www.jetuml.org/docs/schemas.html)
 * [Contributing Guidelines](https://www.jetuml.org/docs/CONTRIBUTING.html)
 * [Guide for JetUML Developers](https://www.jetuml.org/docs/developers.html)
-* [Architecture Description]([/docs/architecture.md](https://www.jetuml.org/docs/architecture.html))
+* [Architecture Description](https://www.jetuml.org/docs/architecture.html)
